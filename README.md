@@ -19,6 +19,7 @@ Perfect for small projects, personal contact lists, or learning basic **CRUD** o
 
 ## 📂 Folder Structure
 
+```text
 php-contact-manager/
 │
 ├── 📄 index.php # Main dashboard for viewing contacts
@@ -29,11 +30,8 @@ php-contact-manager/
 ├── 🗄️ db.php # Database connection file
 ├── 🎨 style.css # Styling
 └── 📜 README.md # Documentation
+```
 
-yaml
-Copy code
-
----
 
 ## 🚀 Getting Started
 
