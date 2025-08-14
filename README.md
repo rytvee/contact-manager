@@ -66,5 +66,32 @@ $dbname = "contact_manager";
 Then visit http://localhost:8000 🌍
 
 
+## 📷 Screenshots
+
+**Contact list empty**
+
+![contact list empty](images/contact-list-empty-destkop.png)
+
+![contact list empty](images/contact-list-empty-tablet-mobile.png)
+
+**Contact empty search**
+
+![contact empty search](images/contact-empty-search.png)
+
+**Contact list**
+
+![contact list](images/contact-list-destkop.png)
+
+![contact list](images/contact-list-tablet-mobile.png)
+
+**Edit contact**
+
+![add contact](images/add-contact.png)
+
+**Add contact**
+
+![add contact](images/edit-contact.png)
+
+
 ## 📜 License
 This project is free to use and modify.
