@@ -3,10 +3,9 @@ $host = 'localhost';
 $user = 'root';
 $pass = '';
 $db = 'contact_manager';
-$port = 3306;
 
 // Connect without selecting database
-$conn = new mysqli($host, $user, $pass, '', $port);
+$conn = new mysqli($host, $user, $pass);
 
 // Stop script if connection fails
 if ($conn->connect_error) {
