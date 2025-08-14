@@ -70,7 +70,7 @@ Then visit http://localhost:8000 🌍
 
 **Contact list empty**
 
-![contact list empty](images/contact-list-empty-destkop.png)
+![contact list empty](images/contact-list-empty-desktop.png)
 
 ![contact list empty](images/contact-list-empty-tablet-mobile.png)
 
@@ -80,7 +80,7 @@ Then visit http://localhost:8000 🌍
 
 **Contact list**
 
-![contact list](images/contact-list-destkop.png)
+![contact list](images/contact-list-desktop.png)
 
 ![contact list](images/contact-list-tablet-mobile.png)
 
