@@ -230,6 +230,10 @@ button:hover {
         border-bottom: 1px solid #ccc;
     }
 
+    th:last-child {
+        display: none;
+    }
+
     td:not(:last-child) {
         border-bottom: 1px solid #ccc; /* only Name, Phone, Email */
     }
