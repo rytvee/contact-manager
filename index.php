@@ -8,8 +8,8 @@ include 'db.php';
 <head>
     <meta charset="UTF-8">
     <title>Contact Manager</title>
-    <link rel="icon" href="images/icon.png">
-    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
 
@@ -28,7 +28,7 @@ include 'db.php';
                 <th>Name</th>
                 <th>Phone</th>
                 <th>Email</th>
-                <th>Actions</th>
+                <th></th>
             </tr>
         </thead>
 
@@ -120,8 +120,5 @@ function clearSearch() {
 }
 
 </script>
-
-
-
 </body>
 </html>
