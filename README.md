@@ -84,13 +84,13 @@ Then visit http://localhost:8000 🌍
 
 ![contact list](images/contact-list-tablet-mobile.png)
 
-**Edit contact**
+**Add contact**
 
 ![add contact](images/add-contact.png)
 
-**Add contact**
+**Edit contact**
 
-![add contact](images/edit-contact.png)
+![edit contact](images/contact-edit.png)
 
 
 ## 📜 License
