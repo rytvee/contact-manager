@@ -30,8 +30,8 @@ php-contact-manager/
 ├── setup.php       # Create database and table
 ├── db.php          # Database connection file
 ├── css/
-│  └── style.css # Styling
-└── README.md # Documentation
+│  └── style.css    # Styling
+└── README.md       # Documentation
 ```
 
 
