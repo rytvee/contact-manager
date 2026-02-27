@@ -20,20 +20,25 @@ Perfect for small projects, personal contact lists, or learning basic **CRUD** o
 ## 📂 Folder Structure
 
 ```text
-php-contact-manager/
+contact-manager/
 │
 ├── index.php       # Main dashboard for viewing contacts
-├── create.php      # Form for adding a contact
-├── edit.php        # Edit existing contact
-├── delete.php      # Delete contact
-├── search.php      # Search contacts
-├── setup.php       # Create database and table
+├── add.php         # PHP script to add new contact
+├── edit.php        # PHP script to edit an existing contact
+├── delete.php      # PHP script to delete a contact
+├── export.php      # PHP script to export contacts
+├── import.php      # PHP script to import contacts
+├── search.php      # PHP script to search contacts
 ├── db.php          # Database connection file
+├── db.sql          # Database and table SQL file
 ├── css/
 │  └── style.css    # Styling
+├── js/
+│  └── modals.js    # Modal script
+│  └── search.js    # Search script
+├── composer.json   # PHP project dependencies manager
 └── README.md       # Documentation
 ```
-
 
 ## 🚀 Getting Started
 
@@ -43,25 +48,28 @@ php-contact-manager/
 - 🌐 Web server (Apache/Nginx or PHP built-in server)
 
 ### 2️⃣ Installation
-1. **Clone the repository**
+1. **Clone the repository using Git**
    ```
-   git clone https://github.com/yourusername/php-contact-manager.git
-   cd php-contact-manager
+   git clone https://github.com/rytvee/contact-manager.git
+   cd contact-manager
    ```
 2. **Configure the database**
-- Edit `setup.php` and `db.php`:
-
+- Install db.sql
+- Edit `db.php`:
 ```
 $host = "localhost";
 $username = "root";
 $password = "";
 $dbname = "contact_manager";
 ```
-
-3. **Run the project**
-
+3. **Install PHP dependencies using Composer**
 ```
--S localhost:8000
+composer install
+```
+4. **Run the project**
+- If using PHP’s built-in server:
+```
+php -S localhost:8000
 ```
 Then visit http://localhost:8000 🌍
 
