@@ -14,9 +14,11 @@ Perfect for small projects, personal contact lists, or learning basic **CRUD** o
 - 🔒 **Secured** – Prepared statements are used to prevent SQL injection.
 - 💾 **Persistent Storage** – Stores data in **MySQL** or local file.
 
+
 ## 🌐 Live Demo
 You can visit directly from your browser:
 [Try Demo](https://mycontactapp.page.gd/)
+
 
 ## 📂 Folder Structure
 ```text
@@ -39,6 +41,7 @@ contact-manager/
 ├── composer.json   # PHP project dependencies manager
 └── README.md       # Documentation
 ```
+
 
 ## 🚀 Getting Started
 ### 1️⃣ Requirements
