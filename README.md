@@ -24,7 +24,7 @@ You can visit directly from your browser:
 ```text
 contact-manager/
 │
-├── index.php       # Main dashboard for viewing contacts
+├── index.php       # Main page for viewing contacts
 ├── add.php         # PHP script to add new contact
 ├── edit.php        # PHP script to edit an existing contact
 ├── delete.php      # PHP script to delete a contact
