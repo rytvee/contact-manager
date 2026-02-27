@@ -1,5 +1,5 @@
 
-# 📇 PHP Contact Manager
+# 📇 Contact Manager
 A lightweight **PHP**-based contact manager for storing and managing **📧 emails** and **📱 phone numbers**.  
 Perfect for small projects, personal contact lists, or learning basic **CRUD** operations in PHP.
 
