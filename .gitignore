@@ -1,0 +1,5 @@
+/vendor        # Composer dependencies (will be recreated via composer install)
+/.env          # Environment files (API keys, credentials)
+*.log          # Any log files
+*.cache        # Optional cache files
+.DS_Store      # macOS system file
