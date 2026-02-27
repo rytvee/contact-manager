@@ -1,9 +1,9 @@
 {
     "name": "rytvee/contact-manager",
-    "description": "A PHP Contact Manager project using PHPMailer",
+    "description": "A simple PHP contact manager using PHPOffice PhpSpreadsheet",
     "type": "project",
     "require": {
-        "phpmailer/phpmailer": "^7.8"
+        "phpoffice/phpspreadsheet": "^1.28"
     },
     "autoload": {
         "psr-4": {
