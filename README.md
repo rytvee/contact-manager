@@ -1,12 +1,10 @@
 
 # 📇 PHP Contact Manager
-
 A lightweight **PHP**-based contact manager for storing and managing **📧 emails** and **📱 phone numbers**.  
 Perfect for small projects, personal contact lists, or learning basic **CRUD** operations in PHP.
 
 
 ## ✨ Features
-
 - ➕ **Add Contacts** – Save name, 📧 email, and 📱 phone number.
 - 👀 **View Contacts** – Display all saved contacts in a neat table.
 - ✏️ **Edit Contacts** – Update existing contact details.
@@ -16,9 +14,11 @@ Perfect for small projects, personal contact lists, or learning basic **CRUD** o
 - 🔒 **Secured** – Prepared statements are used to prevent SQL injection.
 - 💾 **Persistent Storage** – Stores data in **MySQL** or local file.
 
+## 🌐 Live Demo
+You can visit directly from your browser:
+[Try Demo](https://mycontactapp.page.gd/)
 
 ## 📂 Folder Structure
-
 ```text
 contact-manager/
 │
@@ -41,7 +41,6 @@ contact-manager/
 ```
 
 ## 🚀 Getting Started
-
 ### 1️⃣ Requirements
 - 🐘 PHP 7.4+  
 - 🗄️ MySQL / MariaDB  
@@ -75,7 +74,6 @@ Then visit http://localhost:8000 🌍
 
 
 ## 📷 Screenshots
-
 **Contact list empty**
 
 ![contact list empty](images/contact-list-empty-desktop.png)
