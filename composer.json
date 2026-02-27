@@ -1,0 +1,16 @@
+{
+    "name": "rytvee/contact-manager",
+    "description": "A PHP Contact Manager project using PHPMailer",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^7.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
