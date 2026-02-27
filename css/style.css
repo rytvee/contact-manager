@@ -1,6 +1,8 @@
 /* General reset and layout */
 * {
     box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent; /* Remove blue tap highlight on iOS & Android */
+    -webkit-touch-callout: none; /* Remove blue tap highlight on iOS long-press menu */
 }
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -234,6 +236,7 @@ button {
   body {
     background-color: #ffffff;
     padding: 10px;
+    min-height: 10vh;
   }
   .container {
     background-color: transparent;
@@ -262,7 +265,7 @@ button {
 .fab-wrapper {
   position: fixed;
   bottom: 20px;
-  right: 70px;
+  right: 30px;
 }
 .fab-btn {
   background-color: #0d6efd;
