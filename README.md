@@ -12,7 +12,7 @@ Perfect for small projects, personal contact lists, or learning basic **CRUD** o
 - 🔍 **Search Contacts** – Find contacts by name, email, or phone number.
 - 🎨 **Responsive styling** – Adjusts to different screen sizes.
 - 🔒 **Secured** – Prepared statements are used to prevent SQL injection.
-- 💾 **Persistent Storage** – Stores data in **MySQL** or local file.
+- 💾 **Persistent Storage** – Stores data in **MySQL**.
 
 
 ## 🌐 Live Demo
