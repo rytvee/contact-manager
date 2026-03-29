@@ -1,26 +1,26 @@
 
-# 📇 Contact Manager
-A lightweight **PHP**-based contact manager for storing and managing **📧 emails** and **📱 phone numbers**.  
+# Contact Manager
+A lightweight **PHP**-based contact manager for storing and managing **emails** and **phone numbers**.  
 Perfect for small projects, personal contact lists, or learning basic **CRUD** operations in PHP.
 
 
-## ✨ Features
-- ➕ **Add Contacts** – Save name, 📧 email, and 📱 phone number.
-- 👀 **View Contacts** – Display all saved contacts in a neat table.
-- ✏️ **Edit Contacts** – Update existing contact details.
-- ❌ **Delete Contacts** – Remove unwanted entries.
-- 🔍 **Search Contacts** – Find contacts by name, email, or phone number.
-- 🎨 **Responsive styling** – Adjusts to different screen sizes.
-- 🔒 **Secured** – Prepared statements are used to prevent SQL injection.
-- 💾 **Persistent Storage** – Stores data in **MySQL**.
+## Features
+- **Add Contacts** – Save name, email, and phone number.
+- **View Contacts** – Display all saved contacts in a neat table.
+- **Edit Contacts** – Update existing contact details.
+- **Delete Contacts** – Remove unwanted entries.
+- **Search Contacts** – Find contacts by name, email, or phone number.
+- **Responsive styling** – Adjusts to different screen sizes.
+- **Secured** – Prepared statements are used to prevent SQL injection.
+- **Persistent Storage** – Stores data in **MySQL**.
 
 
-## 🌐 Live Demo
+## Live Demo
 You can visit directly from your browser:
 [Try Demo](https://mycontactapp.page.gd/)
 
 
-## 📂 Folder Structure
+## Folder Structure
 ```text
 contact-manager/
 │
@@ -43,13 +43,13 @@ contact-manager/
 ```
 
 
-## 🚀 Getting Started
-### 1️⃣ Requirements
-- 🐘 PHP 7.4+  
-- 🗄️ MySQL / MariaDB  
-- 🌐 Web server (Apache/Nginx or PHP built-in server)
+## Getting Started
+### Requirements
+- PHP 7.4+  
+- MySQL / MariaDB  
+- Web server (Apache/Nginx or PHP built-in server)
 
-### 2️⃣ Installation
+### Installation
 1. **Clone the repository using Git**
    ```
    git clone https://github.com/rytvee/contact-manager.git
@@ -73,10 +73,10 @@ composer install
 ```
 php -S localhost:8000
 ```
-Then visit http://localhost:8000 🌍
+Then visit http://localhost:8000
 
 
-## 📷 Screenshots
+## Screenshots
 **Contact list empty**
 
 ![contact list empty](images/contact-list-empty-desktop.png)
@@ -102,5 +102,5 @@ Then visit http://localhost:8000 🌍
 ![edit contact](images/contact-edit.png)
 
 
-## 📜 License
+## License
 This project is free to use and modify.
