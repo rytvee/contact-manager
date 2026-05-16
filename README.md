@@ -15,11 +15,6 @@ Perfect for small projects, personal contact lists, or learning basic **CRUD** o
 - **Persistent Storage** – Stores data in **MySQL**.
 
 
-## Live Demo
-You can visit directly from your browser:
-[Try Demo](https://mycontactapp.page.gd/)
-
-
 ## Folder Structure
 ```text
 contact-manager/
